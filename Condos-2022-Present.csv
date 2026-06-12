@@ -1,0 +1,12 @@
+id,formattedAddress,addressLine1,addressLine2,city,state,stateFips,zipCode,county,countyFips,latitude,longitude,propertyType,bedrooms,bathrooms,squareFootage,yearBuilt,lotSize,lastSaleDate
+"6315-Escondido-Dr,-Unit-I,-El-Paso,-TX-79912","6315 Escondido Dr, Unit I, El Paso, TX 79912",6315 Escondido Dr,Unit I,El Paso,TX,48,79912,El Paso,141,31.84392,-106.53118,Condo,3,2.5,1620,2023,,
+"8137-Cooley-Ave-Unit-B,-El-Paso,-TX-79907","8137 Cooley Ave Unit B, El Paso, TX 79907",8137 Cooley Ave Unit B,,El Paso,TX,48,79907,El Paso,141,31.712559,-106.362366,Condo,3,2.5,1504,2022,3000,
+"8415-Leo-St,-Unit-B,-El-Paso,-TX-79904","8415 Leo St, Unit B, El Paso, TX 79904",8415 Leo St,Unit B,El Paso,TX,48,79904,El Paso,141,31.857038,-106.445965,Condo,3,1,980,2022,,
+"10022-Chick-A-Dee-St,-Unit-A,-El-Paso,-TX-79924","10022 Chick A Dee St, Unit A, El Paso, TX 79924",10022 Chick A Dee St,Unit A,El Paso,TX,48,79924,El Paso,141,31.900301,-106.403841,Condo,3,1.5,1248,2022,,
+"8937-Robert-Dr,-Unit-B,-El-Paso,-TX-79904","8937 Robert Dr, Unit B, El Paso, TX 79904",8937 Robert Dr,Unit B,El Paso,TX,48,79904,El Paso,141,31.866207,-106.434921,Condo,2,2,1300,2023,,
+"8937-Robert-Dr,-Unit-A,-El-Paso,-TX-79904","8937 Robert Dr, Unit A, El Paso, TX 79904",8937 Robert Dr,Unit A,El Paso,TX,48,79904,El Paso,141,31.866207,-106.434921,Condo,2,2,1400,2023,,
+"8937-Robert-Dr,-Unit-C,-El-Paso,-TX-79904","8937 Robert Dr, Unit C, El Paso, TX 79904",8937 Robert Dr,Unit C,El Paso,TX,48,79904,El Paso,141,31.866207,-106.434921,Condo,2,2,1300,2023,,
+"8937-Robert-Dr,-Unit-D,-El-Paso,-TX-79904","8937 Robert Dr, Unit D, El Paso, TX 79904",8937 Robert Dr,Unit D,El Paso,TX,48,79904,El Paso,141,31.866207,-106.434921,Condo,2,2,1400,2023,,
+"9779-Mccombs-St,-Apt-E8,-El-Paso,-TX-79924","9779 Mccombs St, Apt E8, El Paso, TX 79924",9779 Mccombs St,Apt E8,El Paso,TX,48,79924,El Paso,141,31.890854,-106.40728,Condo,2,2,1220,2024,,
+"9779-Mccombs-St,-Apt-C3,-El-Paso,-TX-79924","9779 Mccombs St, Apt C3, El Paso, TX 79924",9779 Mccombs St,Apt C3,El Paso,TX,48,79924,El Paso,141,31.890854,-106.40728,Condo,3,2,1368,2024,,
+"400-Lomaland-Dr,-El-Paso,-TX-79907","400 Lomaland Dr, El Paso, TX 79907",400 Lomaland Dr,,El Paso,TX,48,79907,El Paso,141,31.72429,-106.344695,Condo,3,2,1450,2023,,2009-06-08T00:00:00.000Z
