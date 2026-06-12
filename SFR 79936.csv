@@ -1,0 +1,5 @@
+id,formattedAddress,addressLine1,addressLine2,city,state,stateFips,zipCode,county,countyFips,latitude,longitude,propertyType,bedrooms,bathrooms,squareFootage,lotSize,yearBuilt
+"11337-Ardelle-Ave,-El-Paso,-TX-79936","11337 Ardelle Ave, El Paso, TX 79936",11337 Ardelle Ave,,El Paso,TX,48,79936,El Paso,141,31.788764,-106.299434,Single Family,4,2.5,4300,8712,2025
+"11341-Ardelle-Ave,-El-Paso,-TX-79936","11341 Ardelle Ave, El Paso, TX 79936",11341 Ardelle Ave,,El Paso,TX,48,79936,El Paso,141,31.788763,-106.299209,Single Family,4,4.5,3329,10890,2025
+"11317-Ardelle-Ave,-El-Paso,-TX-79936","11317 Ardelle Ave, El Paso, TX 79936",11317 Ardelle Ave,,El Paso,TX,48,79936,El Paso,141,31.788459,-106.300808,Single Family,4,2.5,2683,6970,2025
+"11345-Ardelle-Ave,-El-Paso,-TX-79936","11345 Ardelle Ave, El Paso, TX 79936",11345 Ardelle Ave,,El Paso,TX,48,79936,El Paso,141,31.788763,-106.298983,Single Family,4,3.5,3329,10890,2025
